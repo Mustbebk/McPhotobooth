@@ -1,0 +1,35 @@
+{
+  "packs": [
+    {
+      "id": "pack-01-celestial",
+      "name": "Celestial",
+      "stickers": [
+        "star-pink.png",
+        "star-blue.png",
+        "pearl-large.png"
+      ]
+    },
+    {
+      "id": "Set1",
+      "name": "Set1",
+      "stickers": [
+        "Bunny.png",
+        "Cam1.png",
+        "CamRetro.png",
+        "Cassette.png",
+        "Cherry Coded.png",
+        "ChromeStars.png",
+        "CrushedCola.png",
+        "Cutie.png",
+        "Disco.png",
+        "FavPerson.png",
+        "Flora.png",
+        "HeartStamp.png",
+        "Heat disc.png",
+        "LipKiss.png",
+        "RedStars.png",
+        "VvLighter.png"
+      ]
+    }
+  ]
+}
